@@ -3,6 +3,7 @@
 Machine Learning Project Proposal
 
 Topic
+
 The topic of our research is “ Color Palette Generation for Outfit Coordination”. We want to
 develop a generator that will see the clothes worn by person and generate the colors in that clothe.
 What to do with the colors? We think this is the main part of all fashion themed projects made with
@@ -14,4 +15,5 @@ Related
 Asian Institute of Technology).
 
 Data set for our project-
+
 https://www.kaggle.com/datasets/rajkumarl/people-clothing-segmentation
