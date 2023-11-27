@@ -1,13 +1,13 @@
 # Color-palette-
 
-Week 1: We have chosen the dataset for the project We searched for the methods.
+Machine Learning Project Proposal
 
-Segmentation https://www.superannotate.com/blog/image-segmentation-for-machine-learning https://www.v7labs.com/blog/image-segmentation-guide
-
-Week 2: We analyzed similar projects made in the past and searched about Clustering.
-
-Clustering https://www.geeksforgeeks.org/clustering-in-machine-learning/
-
-[1] Cushen, G. A., & Nixon, M. S. (2012, July). Real-time semantic clothing segmentation. In International Symposium on Visual Computing (pp. 272-281). Berlin, Heidelberg: Springer Berlin Heidelberg.
-
-Week 3: Looking for method and resized the images, normalization and augmentation.
+Topic
+The topic of our research is “ Color Palette Generation for Outfit Coordination”. We want to
+develop a generator that will see the clothes worn by person and generate the colors in that clothe.
+What to do with the colors? We think this is the main part of all fashion themed projects made with
+Machine Learning. Because, in order to do something with that clothes like recommendation or
+fashion design, first step is always to generate the colors exist on the clothes.
+Related
+[1] Roy, M. A. (2019). Clothing Recognition Using Deep Learning Techniques (Doctoral dissertation,
+Asian Institute of Technology).
