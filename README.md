@@ -9,6 +9,7 @@ What to do with the colors? We think this is the main part of all fashion themed
 Machine Learning. Because, in order to do something with that clothes like recommendation or
 fashion design, first step is always to generate the colors exist on the clothes.
 Related
+
 [1] Roy, M. A. (2019). Clothing Recognition Using Deep Learning Techniques (Doctoral dissertation,
 Asian Institute of Technology).
 
