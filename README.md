@@ -11,3 +11,6 @@ fashion design, first step is always to generate the colors exist on the clothes
 Related
 [1] Roy, M. A. (2019). Clothing Recognition Using Deep Learning Techniques (Doctoral dissertation,
 Asian Institute of Technology).
+
+Data set for our project-
+https://www.kaggle.com/datasets/rajkumarl/people-clothing-segmentation
